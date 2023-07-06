@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@700&display=swap');
+
+:root{
+    --font-family: 'Agdasima', sans-serif;
+    --gradient-text: linear-gradient(89.97deg, rgb(0, 0, 139),rgb(95, 36, 255),rgb(118, 0, 0));
+    --gradient-bar: linear-gradient(103.64deg, indigo, rgb(180, 8, 180), rgb(255, 0, 255));
+
+    --color-bg: rgb(248, 192, 93);
+    --color-footer: rgb(106, 255, 0);
+    --color-blog: rgb(250, 250, 203);
+    --color-text: rgb(0, 0, 114);
+    --color-subtext: rgb(0, 88, 171);
+}
